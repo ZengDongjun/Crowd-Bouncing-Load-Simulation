@@ -7,8 +7,8 @@ The "CrowdLoadGneration" contains the script used to generte load time histories
 *-----------------------------------------------------------------------------------------------------------------------*  
 The necessary packages for the "ImpulseSimulation", "PowerSequenceSimulation", and "TimeSequenceSimulation" are as belows  
   
-**PackageNames**                        **Version**  
--torch(Namely Pytorch)               1.9.1  
--numpy                               1.24.3  
--scipy                               1.10.1  
--matplotlib                          3.7.1  
+**PackageNames** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; **Version**  
+torch(Namely Pytorch) &emsp;&emsp;&emsp;&emsp;&emsp;&nbsp; 1.9.1  
+numpy &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.24.3  
+scipy &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 1.10.1  
+matplotlib &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp; 3.7.1  
